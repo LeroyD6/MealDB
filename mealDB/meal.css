@@ -1,0 +1,7 @@
+/*base styles for the mealDB page*/
+body {
+	font-family: "Schoolbell", cursive;
+	background-color: #203636; 
+	background-size: cover;
+	background-position: center;
+}
